@@ -1,0 +1,19 @@
+# Configurações gerais
+LARGURA, ALTURA = 640, 640
+LINHAS, COLUNAS = 8, 8
+TAM_QUAD = LARGURA // COLUNAS
+FPS = 60
+
+# Cores
+BRANCO = (255, 255, 255)
+PRETO = (0, 0, 0)
+MARROM = (139, 69, 19)
+BEGE = (245, 222, 179)
+VERMELHO = (255, 0, 0)
+
+# Peças
+VAZIO = 0
+HUMANO = 1
+IA = 2
+DAMA_H = 3
+DAMA_IA = 4
