@@ -1,2 +1,2 @@
-def dentro(l, c):
-    return 0 <= l < 8 and 0 <= c < 8
+def copiar(tab):
+    return [linha[:] for linha in tab]
