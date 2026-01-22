@@ -1,4 +1,3 @@
-# Configurações gerais
 LARGURA, ALTURA = 640, 640
 LINHAS, COLUNAS = 8, 8
 TAM_QUAD = LARGURA // COLUNAS
@@ -9,6 +8,7 @@ BRANCO = (255, 255, 255)
 PRETO = (0, 0, 0)
 MARROM = (139, 69, 19)
 BEGE = (245, 222, 179)
+AZUL = (0, 0, 255)
 VERMELHO = (255, 0, 0)
 
 # Peças
